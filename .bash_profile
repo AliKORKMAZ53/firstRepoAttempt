@@ -15,4 +15,4 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 # '\W' adds the name of the current directory
 export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
 
-alias notp="C:\Program Files\Notepad++\notepad++.exe"
+alias notepad="C:\Program Files\Notepad++\notepad++.exe"
